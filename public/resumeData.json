@@ -5,19 +5,19 @@
       "description": " My passion lies in working on data-focused, large-scale projects, and I also enjoy exploring machine learning and blockchain technologies. I am currently seeking dynamic Software Engineer roles where I can leverage my diverse skill set and continue to grow professionally.",
       "image": "profilePic.jpg",
       "bio": [
-        "As a seasoned Software Engineer with over 5 years of experience,  I specialize in creating scalable data management and e-commerce solutions. I recently graduated with a degree in MS in Computer Science from Miami University and currently contribute as a Full Stack Developer at the Myaamia Center. My core strengths lie in web development, particularly backend development and data integration using Node.js, Python, MySQL, and Amazon Web Services (AWS). I am continually learning and currently enhancing my frontend development skills while exploring blockchain technology."
+        "As a seasoned Software Engineer with over 6 years of experience,  I specialize in creating scalable data management, logistics, and e-commerce solutions.I graduated with a degree in MS in Computer Science from Miami University in 2024. I currently work as a Software Engineer at CTDI. My core strengths are in backend development and data integration using ASP.NET Core, Python, Node.js, PostgreSQL, and Amazon Web Services (AWS). I am continually learning and currently enhancing my frontend development skills while exploring blockchain technology."
       ],
       "contactmessage": "You can contact me at pratiksha.shrestha97@gmail.com.",
       "email": "pratiksha.shrestha97@gmail.com",
       "phone": "+1 (347) 686 1391",
       "address": {
-        "street": "714 South Locust Street",
-        "city": "Glendale",
-        "state": "New York",
-        "zip": "11385"
+        "street": "318 Apple Dr",
+        "city": "Exton",
+        "state": "PA",
+        "zip": "19341"
       },
       "website": "http://pratikshashrestha.com.np",
-      "resumeDownload": "/documents/Pratiksha_Shrestha_Portfolio.pdf",
+      "resumeDownload": "/documents/Pratiksha_Shrestha_Resume.pdf",
       "social": [
         {
           "name": "linkedin",
@@ -62,9 +62,21 @@
       ],
       "work": [
         {
+          "company": "Communications Test Design, Inc., West Chester, PA",
+          "title": "Software Engineer",
+          "years": "Sept 2024 - Present",
+          "description": [
+            "Developed and enhanced warehouse management applications to optimize inventory processes, including stock distribution, returns, and repair workflows - resulting in improved operational throughput.",
+            "Engineered asynchronous background file upload service using .NET hosted services and channels, significantly reducing processing time and increasing system reliability for large file handling.",
+            "Created and integrated dynamic, carrier-compliant shipping label generators, ensuring compliance across carriers.",
+            "Automated logistics workflows by integrating third-party REST APIs and consuming WCF services, enabling real-time label creation, electronic manifest submission, and SPS-compliant data exchanges."
+          ],
+          "stack": "ASP.Net Core, C#, Blazor, Entity Framework, AWS, PostgreSQL, Docker, xUnit, TeamCity, WCF"
+        },
+        {
           "company": "Myaamia Center, Miami University, Oxford, OH",
           "title": "Graduate Full-Stack Developer",
-          "years": "August 2022 - Present",
+          "years": "August 2022 - August 2024",
           "description": [
             "Designed and built intuitive web admin panel for language revitalization, enhancing engagement and accessibility.",
             "Led database architecture design and development for a dynamic survey management and data analysis platform. Supported 10+ survey types, implementing advanced filtering, sorting, and data mapping across interconnected survey databases.",
@@ -73,7 +85,7 @@
             "Migrated legacy monolithic applications to microservices model hosted in AWS EC2 using AWS API Gateway.",
             "Integrated OAuth 2.0 authorization to secure API endpoints and enhance user authentication process."
           ],
-          "stack": "Laravel, ASP.Net Core, Node.js, React.js, jQuery, JavaScript, AWS, MariaDB, Docker, Rest API, Puppet, Nginx, DLV2"
+          "stack": "Laravel, ASP.Net Core, React.js, jQuery, JavaScript, AWS, MariaDB, Docker, Rest API, Puppet, Nginx, DLV2"
         },
         {
           "company": "Proshore Netherlands (via Proshore Nepal)",
@@ -88,7 +100,7 @@
             "Implemented e-commerce data synchronization across 4 third-party vendor systems for improved data accuracy and efficiency.",
             "Engineered continuous deployment pipeline reducing deployment time by 70% with improved release and rollback process."
           ],        
-          "stack": "Node.js, TypeScript, C#, Python, JavaScript, Express.js, Flask, ASP.Net Core, MySQL, DynamoDB, AWS, Docker, Kubernetes, Redis, jQuery, Vue.js, Knex.js, Mollie API, Filezilla, FTP, SMTP, cXML, Jira, Postman, Selenium, Chai"
+          "stack": "Node.js, TypeScript, Python, JavaScript, Express.js, Flask, MySQL, DynamoDB, AWS, Docker, Kubernetes, Redis, jQuery, Vue.js, Knex.js, Mollie API, Filezilla, FTP, SMTP, cXML, Jira, Postman, Selenium, Chai"
         },
         {
           "company": "GrowByData Services Pvt. Ltd.",
@@ -104,12 +116,21 @@
       ],
       "skills": [
         {
+          "name": "C#",
+          "level": "90%"
+        },
+
+        {
+          "name": "ASP.NET Core#",
+          "level": "90%"
+        },
+        {
           "name": "JavaScript",
           "level": "90%"
         },
         {
           "name": "Node.js",
-          "level": "90%"
+          "level": "85%"
         },
         {
           "name": "React",
@@ -118,10 +139,6 @@
         {
           "name": "TypeScript",
           "level": "70%"
-        },
-        {
-          "name": "C#",
-          "level": "65%"
         },
         {
           "name": "Docker",
@@ -140,7 +157,7 @@
           "level": "80%"
         },
         {
-          "name": "MySQL",
+          "name": "PostgreSQL",
           "level": "80%"
         },
         {
